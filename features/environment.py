@@ -8,3 +8,4 @@ def after_step(context, step):
 
 def after_all(context):
     context.web.quit()
+    
